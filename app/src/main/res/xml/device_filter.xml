@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Empty filters allow the app to detect all USB devices and let our code handle the selection -->
+    <usb-device />
+</resources>

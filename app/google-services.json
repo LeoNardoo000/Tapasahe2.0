@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "115863402912",
+    "project_id": "rfidpaymentsys",
+    "storage_bucket": "rfidpaymentsys.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115863402912:android:c1ac3e23752d38b525ccc5",
+        "android_client_info": {
+          "package_name": "com.example.rfidpaymentsys"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOt2xvLjdFy75KGbh9jl4C6Ngljvau_2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
